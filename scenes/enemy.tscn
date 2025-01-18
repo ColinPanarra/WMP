@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://bm4c8wlid55yo"]
 
-[ext_resource type="Texture2D" uid="uid://dvke5ve00iuhq" path="res://alien_tmp.png" id="1_mso53"]
+[ext_resource type="Texture2D" uid="uid://dvke5ve00iuhq" path="res://sprites/alien_tmp.png" id="1_mso53"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_07at5"]
 radius = 79.0063

@@ -1,9 +1,9 @@
 [gd_scene load_steps=6 format=3 uid="uid://cmgx4pdwtirq4"]
 
 [ext_resource type="Script" path="res://scenes/robot.gd" id="1_nsp5k"]
-[ext_resource type="Texture2D" uid="uid://dp4wskmk1jewg" path="res://robot.png" id="1_w08y4"]
-[ext_resource type="Texture2D" uid="uid://dwfivrol6ce8e" path="res://gun_tmp.png" id="3_rku7m"]
-[ext_resource type="Texture2D" uid="uid://cdqvm48li3wtk" path="res://gun_bullet_tmp.png" id="4_c3bvj"]
+[ext_resource type="Texture2D" uid="uid://dp4wskmk1jewg" path="res://sprites/robot.png" id="1_w08y4"]
+[ext_resource type="Texture2D" uid="uid://dwfivrol6ce8e" path="res://sprites/gun_tmp.png" id="3_rku7m"]
+[ext_resource type="Texture2D" uid="uid://cdqvm48li3wtk" path="res://sprites/gun_bullet_tmp.png" id="4_c3bvj"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_h1fya"]
 size = Vector2(26, 30)
